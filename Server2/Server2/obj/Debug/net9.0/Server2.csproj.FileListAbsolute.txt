@@ -1,0 +1,14 @@
+C:\Users\student\RiderProjects\Server2\Server2\bin\Debug\net9.0\Server2.exe
+C:\Users\student\RiderProjects\Server2\Server2\bin\Debug\net9.0\Server2.deps.json
+C:\Users\student\RiderProjects\Server2\Server2\bin\Debug\net9.0\Server2.runtimeconfig.json
+C:\Users\student\RiderProjects\Server2\Server2\bin\Debug\net9.0\Server2.dll
+C:\Users\student\RiderProjects\Server2\Server2\bin\Debug\net9.0\Server2.pdb
+C:\Users\student\RiderProjects\Server2\Server2\obj\Debug\net9.0\Server2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\RiderProjects\Server2\Server2\obj\Debug\net9.0\Server2.AssemblyInfoInputs.cache
+C:\Users\student\RiderProjects\Server2\Server2\obj\Debug\net9.0\Server2.AssemblyInfo.cs
+C:\Users\student\RiderProjects\Server2\Server2\obj\Debug\net9.0\Server2.csproj.CoreCompileInputs.cache
+C:\Users\student\RiderProjects\Server2\Server2\obj\Debug\net9.0\Server2.dll
+C:\Users\student\RiderProjects\Server2\Server2\obj\Debug\net9.0\refint\Server2.dll
+C:\Users\student\RiderProjects\Server2\Server2\obj\Debug\net9.0\Server2.pdb
+C:\Users\student\RiderProjects\Server2\Server2\obj\Debug\net9.0\Server2.genruntimeconfig.cache
+C:\Users\student\RiderProjects\Server2\Server2\obj\Debug\net9.0\ref\Server2.dll

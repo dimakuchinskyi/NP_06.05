@@ -1,0 +1,14 @@
+C:\Users\student\RiderProjects\Client2\Client2\bin\Debug\net9.0\Client2.exe
+C:\Users\student\RiderProjects\Client2\Client2\bin\Debug\net9.0\Client2.deps.json
+C:\Users\student\RiderProjects\Client2\Client2\bin\Debug\net9.0\Client2.runtimeconfig.json
+C:\Users\student\RiderProjects\Client2\Client2\bin\Debug\net9.0\Client2.dll
+C:\Users\student\RiderProjects\Client2\Client2\bin\Debug\net9.0\Client2.pdb
+C:\Users\student\RiderProjects\Client2\Client2\obj\Debug\net9.0\Client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\RiderProjects\Client2\Client2\obj\Debug\net9.0\Client2.AssemblyInfoInputs.cache
+C:\Users\student\RiderProjects\Client2\Client2\obj\Debug\net9.0\Client2.AssemblyInfo.cs
+C:\Users\student\RiderProjects\Client2\Client2\obj\Debug\net9.0\Client2.csproj.CoreCompileInputs.cache
+C:\Users\student\RiderProjects\Client2\Client2\obj\Debug\net9.0\Client2.dll
+C:\Users\student\RiderProjects\Client2\Client2\obj\Debug\net9.0\refint\Client2.dll
+C:\Users\student\RiderProjects\Client2\Client2\obj\Debug\net9.0\Client2.pdb
+C:\Users\student\RiderProjects\Client2\Client2\obj\Debug\net9.0\Client2.genruntimeconfig.cache
+C:\Users\student\RiderProjects\Client2\Client2\obj\Debug\net9.0\ref\Client2.dll
